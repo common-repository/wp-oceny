@@ -1,0 +1,33 @@
+th.column-ocena				{width: 60px;}
+
+div#oceny-da div.oceny_id div
+	{
+	display: block;
+	overflow: hidden;
+	float: left;
+	margin: 0;
+	padding-top: 56px;
+	text-align: center;
+	width: 54px;
+	height: 18px;
+	font-weight: bold;
+	color: #7f7f7f;
+	cursor: pointer;
+	}
+
+div#oceny-da div.a_pa			{background: url(img/a.png) 0 -74px no-repeat;}
+div#oceny-da div.b_pa			{background: url(img/b.png) 0 -74px no-repeat;}
+div#oceny-da div.c_pa			{background: url(img/c.png) 0 -74px no-repeat;}
+div#oceny-da div.d_pa			{background: url(img/d.png) 0 -74px no-repeat;}
+div#oceny-da div.e_pa			{background: url(img/e.png) 0 -74px no-repeat;}
+div#oceny-da div.f_pa			{background: url(img/f.png) 0 -74px no-repeat;}
+div#oceny-da div.g_pa			{background: url(img/g.png) 0 -74px no-repeat;}
+div#oceny-da div.h_pa			{background: url(img/h.png) 0 -74px no-repeat;}
+div#oceny-da div.i_pa			{background: url(img/i.png) 0 -74px no-repeat;}
+
+div#oceny-da div.oceny_id div span
+	{
+	color: #2e8b57;
+	font-size: 9px;
+	font-weight: normal;
+	}

@@ -1,0 +1,62 @@
+div.oceny_id div
+	{
+	display: block;
+	overflow: hidden;
+	float: left;
+	margin: 0 0 0 5px;
+	padding-top: 56px;
+	text-align: center;
+	width: 54px;
+	height: 18px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #7f7f7f;
+	}
+
+div#oceny div.w
+	{
+	width: 13px;
+	height: 74px;
+	display: block;
+	overflow: hidden;
+	float: left;
+	background: url(img/w.png) 0 0 no-repeat;
+	}
+
+div#oceny div.w a, div#oceny div.w a img			{border: 0;}
+
+div#oceny div.a		{background: url(img/a.png) 0 0 no-repeat;}
+div#oceny div.a:hover	{background: url(img/a.png) 0 -74px no-repeat;}
+div#oceny div.a_k		{background: url(img/a.png) 0 -74px no-repeat;}
+
+div#oceny div.b		{background: url(img/b.png) 0 0 no-repeat;}
+div#oceny div.b:hover	{background: url(img/b.png) 0 -74px no-repeat;}
+div#oceny div.b_k		{background: url(img/b.png) 0 -74px no-repeat;}
+
+div#oceny div.c		{background: url(img/c.png) 0 0 no-repeat;}
+div#oceny div.c:hover	{background: url(img/c.png) 0 -74px no-repeat;}
+div#oceny div.c_k		{background: url(img/c.png) 0 -74px no-repeat;}
+
+div#oceny div.d		{background: url(img/d.png) 0 0 no-repeat;}
+div#oceny div.d:hover	{background: url(img/d.png) 0 -74px no-repeat;}
+div#oceny div.d_k		{background: url(img/d.png) 0 -74px no-repeat;}
+
+div#oceny div.e		{background: url(img/e.png) 0 0 no-repeat;}
+div#oceny div.e:hover	{background: url(img/e.png) 0 -74px no-repeat;}
+div#oceny div.e_k		{background: url(img/e.png) 0 -74px no-repeat;}
+
+div#oceny div.f		{background: url(img/f.png) 0 0 no-repeat;}
+div#oceny div.f:hover	{background: url(img/f.png) 0 -74px no-repeat;}
+div#oceny div.f_k		{background: url(img/f.png) 0 -74px no-repeat;}
+
+div#oceny div.g		{background: url(img/g.png) 0 0 no-repeat;}
+div#oceny div.g:hover	{background: url(img/g.png) 0 -74px no-repeat;}
+div#oceny div.g_k		{background: url(img/g.png) 0 -74px no-repeat;}
+
+div#oceny div.h		{background: url(img/h.png) 0 0 no-repeat;}
+div#oceny div.h:hover	{background: url(img/h.png) 0 -74px no-repeat;}
+div#oceny div.h_k		{background: url(img/h.png) 0 -74px no-repeat;}
+
+div#oceny div.i		{background: url(img/i.png) 0 0 no-repeat;}
+div#oceny div.i:hover	{background: url(img/i.png) 0 -74px no-repeat;}
+div#oceny div.i_k		{background: url(img/i.png) 0 -74px no-repeat;}
